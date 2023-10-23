@@ -3,11 +3,11 @@ body {
 }
 
 h1 {
-  color: pink;
+  color: black;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
-  font-size: 20px;
+  font-family: Helvetica;
+  font-size: 25px;
 }
