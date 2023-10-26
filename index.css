@@ -1,267 +1,253 @@
-* {
-  box-sizing: border-box;
+.desktop-1
+{
+position:absolute;
+background-color:#ffffff;
+height:1024px;
+width:1440px;
+padding:0px;
 }
-body {
-  font-size: 14px;
+.frame2
+{
+height:219px;
+width:1435px;
+padding:0px;
+top:39px;
+position:relative;
 }
-.v9_2 {
-  width: 100%;
-  height: 1024px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
+.vector1
+{
+height:219px;
+width:1435px;
+filter:drop-shadow(4px 4px 5px rgba(0,0,0,0.25));
 }
-.v9_7 {
-  width: 100%;
-  height: 219px;
-  background: url("../images/v9_7.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 39px;
-  left: 0px;
-  overflow: hidden;
+.välkommen
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:70px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:9px;
+left:20px;
+position:absolute;
+width:405px;
 }
-.v9_6 {
-  width: 100%;
-  height: 219px;
-  background: url("C:\Users\Domin\Downloads\Frame 2.png");
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  border: 1px solid rgba(241,241,241,1);
-  box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+.jelenayh-uddevalla:e-commerceproductmanager.
+{
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:12px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:43px;
+left:35px;
+position:absolute;
+width:266px;
 }
-.v9_5 {
-  width: 405px;
-  color: rgba(255,255,255,1);
-  position: absolute;
-  top: 9px;
-  left: 20px;
-  font-family: Inter;
-  font-weight: Bold;
-  font-size: 70px;
-  opacity: 1;
-  text-align: left;
+.frame3
+{
+background-color:#ffffff;
+height:252px;
+width:842px;
+padding:0px;
+left:52px;
+top:289px;
+position:relative;
 }
-.v9_4 {
-  width: 266px;
-  color: rgba(255,255,255,1);
-  position: absolute;
-  top: 82px;
-  left: 35px;
-  font-family: Inter;
-  font-weight: Semi Bold;
-  font-size: 12px;
-  opacity: 1;
-  text-align: left;
+.loremipsumdolorsitamet,consecteturadipiscingelit.vivamusaliquetvenenatisnullasedaliquam.crasliberometus,blanditvelcommodoac,maximussedmi.integerfringilladapibussapien,sedmalesuadaenim.suspendissetristiqueefficiturerosveltincidunt.maecenasdapibuseratquisvehiculaaliquet.nammalesuadapuruseuturpisfinibus,ethendrerittortorvestibulum.nullamlobortisantevitaeestcommodo,incursusmetusblandit.maurisidvelitdui.suspendisseamassanibh.integermaximus,lectusvitaemalesuadadictum,loremloremcursusfelis,egetfringillaelitmaurisvitaelibero.pellentesqueexodio,iaculisidplaceratnec,volutpatutleo.proinneclacusdictum,placeratdiamnon,dictummi.inpulvinarnequeaugue,utaliquamdiamauctoreu.sedvelmattisest,inmaximusfelis.integervitaepurusviverra,condimentumturpissitamet,elementumturpis.etiamegestasturpisnonmagnafringilla,aiaculislacusaliquet.nullautauctorneque.pellentesquesemperlobortisodio,nontempusmaurisultriciesid.proinnecduimolestieestdignissimmalesuadautacnibh.
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:12px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:70px;
+left:16px;
+position:absolute;
+width:802px;
 }
-.v9_9 {
-  width: 842px;
-  height: 252px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 289px;
-  left: 52px;
-  overflow: hidden;
+.ommig
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:29px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:24px;
+left:16px;
+position:absolute;
+width:108px;
 }
-.v9_10 {
-  width: 802px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 70px;
-  left: 16px;
-  font-family: Inter;
-  font-weight: Semi Bold;
-  font-size: 12px;
-  opacity: 1;
-  text-align: left;
+.frame4
+{
+background-color:#ffffff;
+height:157px;
+width:842px;
+padding:0px;
+left:52px;
+top:563px;
+position:relative;
 }
-.v9_11 {
-  width: 108px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 24px;
-  left: 16px;
-  font-family: Inter;
-  font-weight: Semi Bold;
-  font-size: 29px;
-  opacity: 1;
-  text-align: left;
+.loremipsumdolorsitamet,consecteturadipiscingelit.vivamusaliquetvenenatisnullasedaliquam.crasliberometus,blanditvelcommodoac,maximussedmi.integerfringilladapibussapien,sedmalesuadaenim.suspendissetristiqueefficiturerosveltincidunt.maecenasdapibuseratquisvehiculaaliquet.nammalesuadapuruseuturpisfinibus,ethendrerittortorvestibulum.nullamlobortisantevitaeesttorneque.pellentesquesemperlobortiempusmaurisultriciesid.proinnecduimolestieestdignissimmalesuadautacnibh.
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:12px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:72px;
+left:8px;
+position:absolute;
+width:815px;
 }
-.v9_13 {
-  width: 842px;
-  height: 157px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 563px;
-  left: 52px;
-  overflow: hidden;
+.minakunskaperärfåmenstora
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:29px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:18px;
+left:8px;
+position:absolute;
+width:441px;
 }
-.v9_14 {
-  width: 815px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 72px;
-  left: 8px;
-  font-family: Inter;
-  font-weight: Semi Bold;
-  font-size: 12px;
-  opacity: 1;
-  text-align: left;
+.screenshot_20231026_091436_snapchat1
+{
+height:718px;
+width:447px;
+left:2112px;
+top:896px;
+position:absolute;
 }
-.v9_15 {
-  width: 441px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 18px;
-  left: 8px;
-  font-family: Inter;
-  font-weight: Semi Bold;
-  font-size: 29px;
-  opacity: 1;
-  text-align: left;
+.frame5
+{
+height:100px;
+width:818px;
+padding:0px;
+left:64px;
+top:900px;
+position:relative;
 }
-.v9_12 {
-  width: 447px;
-  height: 718px;
-  background: url("C:\Users\Domin\OneDrive\Bilder\Skärmbilder\Screenshot_20231026_091436_Snapchat.jpg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 261px;
-  left: 946px;
-  overflow: hidden;
+.group1
+{
+width:45px;
+height:65px;
+top:13px;
+left:26px;
+position:absolute;
 }
-.v9_17 {
-  width: 818px;
-  height: 100px;
-  background: url("../images/v9_17.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 900px;
-  left: 64px;
-  overflow: hidden;
+.rectangle1
+{
+background-color:#d9d9d9;
+height:65px;
+width:45px;
+filter:drop-shadow(0px 4px 4px rgba(0,0,0,0.25));
+border-radius:7px;
+border:1px solid #ffffff;
+top:13px;
+left:26px;
+position:absolute;
 }
-.v9_26 {
-  width: 45px;
-  height: 65px;
-  background: url("../images/v9_26.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 13px;
-  left: 26px;
-  overflow: hidden;
+.ellipse1
+{
+background-color:#ffffff;
+height:4.863945484161377px;
+width:4.949999809265137px;
+left:45.8px;
+top:71.49px;
+position:absolute;
 }
-.v9_18 {
-  width: 45px;
-  height: 65px;
-  background: rgba(217,217,217,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  border: 1px solid rgba(255,255,255,1);
-  border-top-left-radius: 7px;
-  border-top-right-radius: 7px;
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  overflow: hidden;
+.rectangle2
+{
+background-color:#000000;
+height:54px;
+width:35px;
+border-radius:3px;
+top:17px;
+left:31px;
+position:absolute;
 }
-.v9_19 {
-  width: 4px;
-  height: 4px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 58px;
-  left: 20px;
-  border: 1px solid rgba(0,0,0,1);
+.ellipse2
+{
+background-color:#313131;
+height:1.768707513809204px;
+width:1.7999999523162842px;
+top:18.3px;
+left:47.6px;
+position:absolute;
+border-radius:50%;
 }
-.v9_20 {
-  width: 35px;
-  height: 54px;
-  background: rgba(0,0,0,1);
-  opacity: 1;
-  position: absolute;
-  top: 4px;
-  left: 5px;
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
-  border-bottom-left-radius: 3px;
-  border-bottom-right-radius: 3px;
-  overflow: hidden;
+.ellipse3
+{
+background-color:#d6d6d6;
+height:0.442176878452301px;
+width:0.44999998807907104px;
+top:18.74px;
+left:48.5px;
+position:absolute;
+border-radius:50%;
 }
-.v9_21 {
-  width: 1px;
-  height: 1px;
-  background: rgba(49,49,49,1);
-  opacity: 1;
-  position: absolute;
-  top: 5px;
-  left: 22px;
-  border-radius: 50%;
+.kontaktamig:073-5555-555
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:12px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:32px;
+left:80px;
+position:absolute;
+width:90px;
 }
-.v9_22 {
-  width: 0px;
-  height: 0px;
-  background: rgba(214,214,214,1);
-  opacity: 1;
-  position: absolute;
-  top: 5px;
-  left: 23px;
-  border-radius: 50%;
+.e-post:trollgumman@trollis.se
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:12px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:31px;
+left:330px;
+position:absolute;
+width:138px;
 }
-.v9_28 {
-  width: 90px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 32px;
-  left: 80px;
-  font-family: Inter;
-  font-weight: Semi Bold;
-  font-size: 12px;
-  opacity: 1;
-  text-align: left;
-}
-.v9_30 {
-  width: 138px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 31px;
-  left: 330px;
-  font-family: Inter;
-  font-weight: Semi Bold;
-  font-size: 12px;
-  opacity: 1;
-  text-align: left;
-}
-.v9_29 {
-  width: 58px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 17px;
-  left: 272px;
-  font-family: Inter;
-  font-weight: Semi Bold;
-  font-size: 41px;
-  opacity: 1;
-  text-align: left;
+.@2
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:41px;
+font-family:Inter;
+line-height:auto;
+border-style:hidden;
+outline:none;
+top:17px;
+left:272px;
+position:absolute;
+width:58px;
 }
